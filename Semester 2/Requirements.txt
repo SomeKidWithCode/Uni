@@ -1,0 +1,4 @@
+In the most basic system, you would simply have a couple of records: Patient, Practitioner, Appointment.
+Each of these would store details about themselves.
+You would have a manager class for storing and retreiving and possibly sorting records.
+You would also have a main class that does the basic functions.
